@@ -44,6 +44,6 @@ main:
   - title: "Forecast network-wide traffic states for multiple steps ahead: A deep learning approach considering dynamic non-local spatial correlation and non-stationary temporal dependency"
     authors: <strong>Xinglei Wang</strong>, Xuefeng Guan, Jun Cao, Na Zhang, Huayi Wu
     conference: "Transportation Research Part C: Emerging Technologies | Oct. 2020"
-    # pdf: htt
+    doi: https://doi.org/10.1016/j.trc.2020.102763
     code: https://github.com/xlwang233/STSeq2Seq
     image: ./assets/img/partc_spatial_conv.png

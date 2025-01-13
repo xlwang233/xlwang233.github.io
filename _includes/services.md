@@ -11,6 +11,7 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979"><autocolor>IEEE Transactions on Intelligent Transportation Systems</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/43762"><autocolor>Computational Urban Science</autocolor></a></li>
   <li><a href="https://www.the-innovation.org/geoscience"><autocolor>The Innovation Geoscience</autocolor></a></li>
 </ul>
