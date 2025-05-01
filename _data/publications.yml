@@ -3,12 +3,11 @@ main:
   - title: Multimodal contrastive learning of urban space representations from POI data
     authors: <strong>Xinglei Wang</strong>, Tao Cheng, Stephen Law, Zicao Zeng, Lu Yin, Junyuan Liu
     # conference_short: arXiv
-    conference: arXiv preprint | Nov. 2024
-    pdf: https://arxiv.org/pdf/2411.06229
+    conference: "Computers, Environment and Urban Systems | May 2025"
+    doi: https://doi.org/10.1016/j.compenvurbsys.2025.102299
     code: https://github.com/xlwang233/CaLLiPer
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/calliper_model.png
-    notes: Under Review
+    notes: Open Access
 
   - title: V-RoAst A New Dataset for Visual Road Assessment
     authors: Natchapon Jongwiriyanurak, Zichao Zeng, June Moh Goo, <strong>Xinglei Wang</strong>, Ilya Ilyankou, Kerkritt Srirrongvikrai, Meihui Wang, James Haworth
