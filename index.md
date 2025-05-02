@@ -15,8 +15,9 @@ I am open to collaborations and external opportunities. Apart from my current su
 - **Data Mining:** spatial data mining, spatio-temporal data mining
 
 ## News
-- **[Apr. 2025]** :tada: A paper titled "Public Attitudes Toward COVID-19 NPIs in Singapore: Insights from Twitter-Based Sentiment and Demographic Analysis" has been accepted to [CARMA 2025](https://carmaconf.org/). Full paper will be available soon.
-- **[Apr. 2025]** :tada: A [paper](https://doi.org/10.1016/j.compenvurbsys.2025.102299) about urban space representation learning has been accepted by [CEUS](https://www.sciencedirect.com/journal/computers-environment-and-urban-systems).
+- **[Apr. 2025]** :tada: A paper titled "Public Attitudes Toward COVID-19 NPIs in Singapore: Insights from Twitter-Based Sentiment and Demographic Analysis" has been accepted by [CARMA 2025](https://carmaconf.org/). Full paper will be available soon.
+- **[Apr. 2025]** :tada: A [paper](https://doi.org/10.1016/j.compenvurbsys.2025.102299) about urban space representation learning has been published in [CEUS](https://www.sciencedirect.com/journal/computers-environment-and-urban-systems).
+- **[Apr. 2025]** :tada: A [paper](https://openreview.net/pdf?id=BOEJGXuYBA) that I co-authored has been accepted by [GIScience 2025](https://giscience2025.org/).
 - **[Nov. 2024]** I have recently given a ligtning talk at [Turing Urban Analytics](https://www.turing.ac.uk/research/research-programmes/urban-analytics) Meeting - [Transforming Urban Living with AI and Digital Twins](https://www.turing.ac.uk/events/transforming-urban-living-ai-and-digital-twins) held in Glasgow, UK.
 - **[Oct. 2024]** A [presentation](https://sites.google.com/dft.gov.uk/datascienceintransportcon/presentations-major-tom/ai-express-talks/where-would-i-go-next-large-language-models-as-human-mobility-predictors) given at [Google Transport AI conference](https://sites.google.com/dft.gov.uk/datascienceintransportcon/home).
 - **[Apr. 2024]** An oral presentation given at [GISRUK 2024](https://2024.gisruk.org/). Conference Program [here](https://2024.gisruk.org//program/).

@@ -8,6 +8,12 @@ main:
     code: https://github.com/xlwang233/CaLLiPer
     image: ./assets/img/calliper_model.png
     notes: Open Access
+    
+  - title: Enriching Location Representation with Detailed Semantic Information
+    authors: Yunyuan Liu, <strong>Xinglei Wang</strong>, Tao Cheng
+    conference: The 13th International Conference on Geographic Information Science (GIScience 2025)
+    pdf: https://openreview.net/pdf?id=BOEJGXuYBA
+    image: ./assets/img/calliper+.png
 
   - title: V-RoAst A New Dataset for Visual Road Assessment
     authors: Natchapon Jongwiriyanurak, Zichao Zeng, June Moh Goo, <strong>Xinglei Wang</strong>, Ilya Ilyankou, Kerkritt Srirrongvikrai, Meihui Wang, James Haworth
