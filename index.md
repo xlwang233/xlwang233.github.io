@@ -8,13 +8,14 @@ Hello, I am currently a PhD student at [SpaceTimeLab](https://www.ucl.ac.uk/spac
 
 Looking forward, I will continue focusing on developing computational method for various urban analytics problems/tasks and investigating fundamental problems in GeoAI. 
 
-I am open to collaborations and external opportunities. Apart from my current supervisors, my other collaborators include [Dr. Meng Fang](https://www.liverpool.ac.uk/people/meng-fang) and [Dr. Lu Yin](http://luuyin.com/). I have also been working closely with my fellow PhD students here at UCL, including [Zichao Zeng](https://www.zengzichao.com/), [Natchapon Jongwiriyanurak](https://profiles.ucl.ac.uk/79254-natchapon-jongwiriyanurak), [June Moh Goo](https://profiles.ucl.ac.uk/96956-june-moh-goo), [Ilya Ilyankou](https://ilyankou.com/), and [Xianghui Zhang](https://profiles.ucl.ac.uk/79532-xianghui-zhang/about), to name a few.
+I am open to collaborations and external opportunities. Apart from my current supervisors, my other collaborators include [Dr. Meng Fang](https://www.liverpool.ac.uk/people/meng-fang) and [Dr. Lu Yin](http://luuyin.com/). I have also been working closely with my fellow PhD students here at UCL, including [Zichao Zeng](https://www.zengzichao.com/), [Junyuan Liu](https://uk.linkedin.com/in/junyuan-liu-8604b9251), [Natchapon Jongwiriyanurak](https://profiles.ucl.ac.uk/79254-natchapon-jongwiriyanurak), [June Moh Goo](https://profiles.ucl.ac.uk/96956-june-moh-goo), [Ilya Ilyankou](https://ilyankou.com/), and [Xianghui Zhang](https://profiles.ucl.ac.uk/79532-xianghui-zhang/about), to name a few.
 
-## Current Research Interests
+### Current Research Interests
 - **GeoAI:** representation learning (with a focus on geospatial data), geospatial foundation models
 - **Data Mining:** spatial data mining, spatio-temporal data mining
 
 ## News
+- **[Aug. 2025]** :tada: A paper about individuals' mobility prediction has been accepted as a **full paper** in [SIGSPATIAL 2025](https://sigspatial2025.sigspatial.org/) Application Track (acceptance rate: 28%). Camera-ready version and DOI will be available soon.
 - **[Apr. 2025]** :tada: A paper titled "Public Attitudes Toward COVID-19 NPIs in Singapore: Insights from Twitter-Based Sentiment and Demographic Analysis" has been accepted by [CARMA 2025](https://carmaconf.org/). Full paper will be available soon.
 - **[Apr. 2025]** :tada: A [paper](https://doi.org/10.1016/j.compenvurbsys.2025.102299) about urban space representation learning has been published in [CEUS](https://www.sciencedirect.com/journal/computers-environment-and-urban-systems).
 - **[Apr. 2025]** :tada: A [paper](https://openreview.net/pdf?id=BOEJGXuYBA) that I co-authored has been accepted by [GIScience 2025](https://giscience2025.org/).

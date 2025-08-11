@@ -1,8 +1,27 @@
 main:
+  - title: "Into the Unknown: Applying Inductive Spatial-Semantic Location Embeddings for Predicting Individuals' Mobility Beyond Visited Places"
+    authors: <strong>Xinglei Wang</strong>, Tao Cheng, Stephen Law, Zicao Zeng, Ilya Ilyankou, Junyuan Liu, Lu Yin, Weiming Huang, Natchapon Jongwiriyanurak
+    conference_short: SIGSPATIAL
+    conference: "33rd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2025)"
+    pdf: https://arxiv.org/pdf/2506.14070
+    code: https://github.com/xlwang233/Into-the-Unknown
+    image: ./assets/img/into_unknown_method_framework.png
+    notes: Preprint
 
+  - title: "V-RoAst: Visual Road Assessment. Can VLM be a Road Safety Assessor Using the iRAP Standard?"
+    authors: Natchapon Jongwiriyanurak, Zichao Zeng, June Moh Goo, <strong>Xinglei Wang</strong>, Ilya Ilyankou, Kerkritt Srirrongvikrai, Meihui Wang, James Haworth
+    conference_short: ICCV-W
+    conference: Workshop on Computer Vision for Developing Countries (CV4DC) at ICCV 2025 | Oct. 2025
+    pdf: https://arxiv.org/pdf/2408.10872
+    code: https://github.com/PongNJ/V-RoAst
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/v-roast.png
+    # notes: New
+  
   - title: Multimodal contrastive learning of urban space representations from POI data
     authors: <strong>Xinglei Wang</strong>, Tao Cheng, Stephen Law, Zicao Zeng, Lu Yin, Junyuan Liu
-    # conference_short: arXiv
+    conference_short: CEUS
     conference: "Computers, Environment and Urban Systems | May 2025"
     doi: https://doi.org/10.1016/j.compenvurbsys.2025.102299
     code: https://github.com/xlwang233/CaLLiPer
@@ -11,23 +30,14 @@ main:
     
   - title: Enriching Location Representation with Detailed Semantic Information
     authors: Yunyuan Liu, <strong>Xinglei Wang</strong>, Tao Cheng
+    conference_short: GIScience
     conference: The 13th International Conference on Geographic Information Science (GIScience 2025)
     pdf: https://openreview.net/pdf?id=BOEJGXuYBA
     image: ./assets/img/calliper+.png
 
-  - title: V-RoAst A New Dataset for Visual Road Assessment
-    authors: Natchapon Jongwiriyanurak, Zichao Zeng, June Moh Goo, <strong>Xinglei Wang</strong>, Ilya Ilyankou, Kerkritt Srirrongvikrai, Meihui Wang, James Haworth
-    # conference_short: arXiv
-    conference: arXiv preprint | Aug. 2024
-    pdf: https://arxiv.org/pdf/2408.10872
-    code: https://github.com/PongNJ/V-RoAst
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/v-roast.png
-    notes: Under Review
-
   - title: "Capturing high street dynamics on a finer scale: a case study in the context of COVID-19"
     authors: <strong>Xinglei Wang</strong>, Jia Shi, Tao Cheng
+    conference_short: GISRUK
     conference: The 32nd GIS Research UK Conference (GISRUK 2024)
     pdf: https://discovery.ucl.ac.uk/id/eprint/10190951/1/submission_85.pdf
     image: ./assets/img/hs_profiles_downsized.png
@@ -42,12 +52,14 @@ main:
 
   - title: "The Ups and Downs of London High Streets Throughout COVID-19 Pandemic: Insights from Footfall-Based Clustering Analysis"
     authors: <strong>Xinglei Wang</strong>, Xianghui Zhang, Tao Cheng
+    conference_short: GIScience
     conference: The 12th International Conference on Geographic Information Science (GIScience 2023)
     pdf: https://drops.dagstuhl.de/storage/00lipics/lipics-vol277-giscience2023/LIPIcs.GIScience.2023.80/LIPIcs.GIScience.2023.80.pdf
     image: ./assets/img/giscience23_cluster_ff.png
 
   - title: "Forecast network-wide traffic states for multiple steps ahead: A deep learning approach considering dynamic non-local spatial correlation and non-stationary temporal dependency"
     authors: <strong>Xinglei Wang</strong>, Xuefeng Guan, Jun Cao, Na Zhang, Huayi Wu
+    conference_short: TRC
     conference: "Transportation Research Part C: Emerging Technologies | Oct. 2020"
     doi: https://doi.org/10.1016/j.trc.2020.102763
     code: https://github.com/xlwang233/STSeq2Seq
