@@ -595,3 +595,101 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+
+/* TOC living under the bio inside the fixed left header */
+.wrapper > header { overflow: auto; } /* scroll if the sidebar gets tall */
+
+.wrapper > header .toc {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid rgba(0,0,0,.12);
+  border-right: 0;      /* ensure no vertical divider in the middle */
+  max-height: none;     /* header handles scrolling */
+  font-size: 0.95rem;
+}
+
+.wrapper > header .toc-title { font-weight: 600; margin-bottom: .5rem; }
+.wrapper > header .toc-list { list-style: none; margin: 0; padding: 0; }
+.wrapper > header .toc-list li { margin: 0; }
+.wrapper > header .toc-list a {
+  display: block;
+  text-decoration: none;
+  padding: .25rem 0;
+  opacity: .85;
+}
+.wrapper > header .toc-list li.is-active > a { font-weight: 600; opacity: 1; }
+.wrapper > header .toc-list .toc-h3 { margin-left: .9rem; font-size: .95em; }
+
+@media (prefers-color-scheme: dark) {
+  .wrapper > header .toc { border-top-color: rgba(255,255,255,.14); }
+}
+
+/* Optional: hide TOC on small screens where the header stacks to the top */
+@media (max-width: 960px) {
+  .wrapper > header .toc { display: none; }
+}
+
+// latest
+/* Reset header's default list layout for the TOC */
+.wrapper > header .toc-list { 
+  list-style: none; 
+  margin: 0; 
+  padding: 0; 
+}
+
+.wrapper > header .toc-list li {
+  float: none !important;
+  width: auto !important;
+  border-right: 0 !important;
+  height: auto !important;
+  display: block !important;
+  margin: 0;
+}
+
+.wrapper > header .toc-list a {
+  display: block;
+  line-height: 1.35;
+  text-decoration: none;
+  padding: .25rem 0;
+  opacity: .9;
+}
+
+/* Slightly larger type in the main content */
+// .wrapper > section#content {
+//   font-size: 1.0525rem;  /* ~17px if root is 16px */
+//   line-height: 1.7;
+// }
+
+// /* tidy spacing with the larger size */
+// .wrapper > section#content p { margin: 0 0 1rem; }
+// .wrapper > section#content h2,
+// .wrapper > section#content h3 { margin-top: 1.4em; }
+
+// /* keep mobile comfortable */
+// @media (max-width: 960px) {
+//   .wrapper > section#content { font-size: 1rem; }
+// }
+
+/* TOC colors (in the left sidebar) */
+.wrapper > header .toc-title { color: #555; }                 /* title */
+
+.wrapper > header .toc-list a {                               /* default */
+  color: #595959;                                             /* blue */
+  text-decoration: none;
+}
+
+.wrapper > header .toc-list .toc-h3 > a {                     /* H3s */
+  color: #5b6b7b;                                             /* slightly muted */
+}
+
+// .wrapper > header .toc-list a:hover,
+// .wrapper > header .toc-list a:focus {
+//   color: #0b53c1;                                             /* hover/focus */
+//   // text-decoration: underline;
+// }
+
+.wrapper > header .toc-list li.is-active > a {                /* active section */
+  color: #0a3069;
+  font-weight: 600;
+}

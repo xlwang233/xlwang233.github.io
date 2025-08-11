@@ -10,7 +10,7 @@ Looking forward, I will continue focusing on developing computational method for
 
 I am open to collaborations and external opportunities. Apart from my current supervisors, my other collaborators include [Dr. Meng Fang](https://www.liverpool.ac.uk/people/meng-fang) and [Dr. Lu Yin](http://luuyin.com/). I have also been working closely with my fellow PhD students here at UCL, including [Zichao Zeng](https://www.zengzichao.com/), [Junyuan Liu](https://uk.linkedin.com/in/junyuan-liu-8604b9251), [Natchapon Jongwiriyanurak](https://profiles.ucl.ac.uk/79254-natchapon-jongwiriyanurak), [June Moh Goo](https://profiles.ucl.ac.uk/96956-june-moh-goo), [Ilya Ilyankou](https://ilyankou.com/), and [Xianghui Zhang](https://profiles.ucl.ac.uk/79532-xianghui-zhang/about), to name a few.
 
-### Current Research Interests
+My current research topics include:
 - **GeoAI:** representation learning (with a focus on geospatial data), geospatial foundation models
 - **Data Mining:** spatial data mining, spatio-temporal data mining
 
@@ -24,5 +24,7 @@ I am open to collaborations and external opportunities. Apart from my current su
 - **[Apr. 2024]** An oral presentation given at [GISRUK 2024](https://2024.gisruk.org/). Conference Program [here](https://2024.gisruk.org//program/).
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/teaching.md %}
 
 {% include_relative _includes/services.md %}

@@ -38,7 +38,6 @@
   <body>
     <div class="wrapper">
       <header>
-        
         {% if site.avatar %}
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
@@ -91,23 +90,27 @@
         {% endif %}
         </div>
         <br>
+        <nav id="page-toc" class="toc" aria-label="On this page">
+          <div class="toc-title"></div>
+          <ol class="toc-list"></ol>
+        </nav>
+        <br>
+      </header>        
 
-      </header>
-      <section>
+      <section id="content">
+        {{ content }}
 
-      {{ content }}
+        <br>
 
-      <br>
-
-      {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
-      {% endif %}
-
+        {% if site.enable_footnote %}
+        <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
+        {% endif %}
       </section>
       <footer>
         
       </footer>
     </div>
+    <script src="{{ '/assets/js/toc.js' | relative_url }}" defer></script>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
