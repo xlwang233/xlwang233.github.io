@@ -11,6 +11,9 @@
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
+  <li><a href="https://www.sciencedirect.com/journal/computers-environment-and-urban-systems"><autocolor>Computers, Environment and Urban Systems</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/building-and-environment"><autocolor>Building and Environment</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/information-processing-and-management"><autocolor>Information Processing & Management</autocolor></a></li>
   <li><a href="https://www.tandfonline.com/journals/tagi20"><autocolor>Annals of GIS</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979"><autocolor>IEEE Transactions on Intelligent Transportation Systems</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/43762"><autocolor>Computational Urban Science</autocolor></a></li>

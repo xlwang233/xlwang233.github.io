@@ -1,4 +1,11 @@
 main:
+  - title: "A unified multi-subgraph pre-training framework for spatio-temporal graph"
+    authors: Mingze Zhong, Zexuan Long, <strong>Xinglei Wang</strong>, Tao Cheng, Meng Fang, Ling Chen
+    conference_short: KBS
+    conference: "Knowledge-Based Systems | Sep. 2025"
+    doi: https://doi.org/10.1016/j.knosys.2025.114428
+    image: ./assets/img/2025_kbs_multi-subgraph_pre-training.jpg
+
   - title: "Into the Unknown: Applying Inductive Spatial-Semantic Location Embeddings for Predicting Individuals' Mobility Beyond Visited Places"
     authors: <strong>Xinglei Wang</strong>, Tao Cheng, Stephen Law, Zicao Zeng, Ilya Ilyankou, Junyuan Liu, Lu Yin, Weiming Huang, Natchapon Jongwiriyanurak
     conference_short: SIGSPATIAL
