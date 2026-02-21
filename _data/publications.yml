@@ -18,7 +18,7 @@ main:
     authors: Natchapon Jongwiriyanurak, Zichao Zeng, June Moh Goo, <strong>Xinglei Wang</strong>, Ilya Ilyankou, Kerkritt Srirrongvikrai, Meihui Wang, James Haworth
     conference_short: ICCV-W
     conference: Workshop on Computer Vision for Developing Countries (CV4DC) at ICCV 2025 | Oct. 2025
-    pdf: https://arxiv.org/pdf/2408.10872
+    pdf: https://openaccess.thecvf.com/content/ICCV2025W/CV4DC/papers/Jongwiriyanurak_V-RoAst_Visual_Road_Assessment._Can_VLM_be_a_Road_Safety_ICCVW_2025_paper.pdf
     code: https://github.com/PongNJ/V-RoAst
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -39,6 +39,7 @@ main:
     conference_short: GIScience
     conference: The 13th International Conference on Geographic Information Science (GIScience 2025)
     pdf: https://openreview.net/pdf?id=BOEJGXuYBA
+    doi: https://doi.org/10.4230/LIPIcs.GIScience.2025.3
     image: ./assets/img/calliper+.png
 
   - title: "Capturing high street dynamics on a finer scale: a case study in the context of COVID-19"
@@ -60,6 +61,7 @@ main:
     authors: <strong>Xinglei Wang</strong>, Xianghui Zhang, Tao Cheng
     conference_short: GIScience
     conference: The 12th International Conference on Geographic Information Science (GIScience 2023)
+    doi: https://doi.org/10.4230/LIPIcs.GIScience.2023.80
     pdf: https://drops.dagstuhl.de/storage/00lipics/lipics-vol277-giscience2023/LIPIcs.GIScience.2023.80/LIPIcs.GIScience.2023.80.pdf
     image: ./assets/img/giscience23_cluster_ff.png
 
