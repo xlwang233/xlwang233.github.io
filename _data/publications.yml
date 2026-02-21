@@ -10,10 +10,9 @@ main:
     authors: <strong>Xinglei Wang</strong>, Tao Cheng, Stephen Law, Zicao Zeng, Ilya Ilyankou, Junyuan Liu, Lu Yin, Weiming Huang, Natchapon Jongwiriyanurak
     conference_short: SIGSPATIAL
     conference: "33rd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2025)"
-    pdf: https://arxiv.org/pdf/2506.14070
+    doi: https://doi.org/10.1145/3748636.3764175
     code: https://github.com/xlwang233/Into-the-Unknown
     image: ./assets/img/into_unknown_method_framework.png
-    notes: Preprint
 
   - title: "V-RoAst: Visual Road Assessment. Can VLM be a Road Safety Assessor Using the iRAP Standard?"
     authors: Natchapon Jongwiriyanurak, Zichao Zeng, June Moh Goo, <strong>Xinglei Wang</strong>, Ilya Ilyankou, Kerkritt Srirrongvikrai, Meihui Wang, James Haworth

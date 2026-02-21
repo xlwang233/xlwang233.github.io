@@ -12,11 +12,13 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
+affiliation_link: https://www.ucl.ac.uk/
 google_scholar: https://scholar.google.com/citations?user=860DSHkAAAAJ&hl=en
 # cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/xlwang233
 linkedin: https://www.linkedin.com/in/xinglei-wang-107410181/
 twitter: https://x.com/xlw233
+orcid: https://orcid.org/0000-0002-9824-7663
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
